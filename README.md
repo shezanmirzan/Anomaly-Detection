@@ -1,3 +1,16 @@
+
+Abstract : 
+
+Driven by the need of efficient video classification techniques to detect abnormal activities among Surveillance videos, we propose an method for classifying videos to either be anomalous(containing some abnormality) or normal(contains no abnormality). Most existing video abnormality detection techniques are based on the presumption that anything that deviates from normal pattern is considered to be abnormal. However in realistic scenarios where we consider different surveillance videos at different locations or different angles of view, it is extremely difficult to define normality of an event. Also, what may be normal event in one environment may not be normal in other. To make the problem more realistic, we plan to work on dataset which contains videos from different scenarios such as road, cafe, etc. Since the above assumption won't hold for such diverse scenarios, we train our model on both normal and anomalous videos. Also, our method only uses the video level labels for training the model.
+
+LINK to Report : 
+https://drive.google.com/file/d/1juQtzemcOzf6C08xMddQiMdhT-zLiqzY/view?usp=sharing
+
+LINK to Video Results : 
+
+https://drive.google.com/drive/folders/1cw8RxqH6c1BstBa6f7yzsrNm7xqoEWmE?fbclid=IwAR1jL0PRmJzyWYYCLzVM_nLUcs1_nsGnnjfBZrCmySVWGdP8-tck7feUe5I
+
+
 DATASET:
 
 You can also download dataset in parts through following link
